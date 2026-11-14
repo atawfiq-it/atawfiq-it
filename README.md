@@ -150,7 +150,7 @@
 
 <hr/>
 
-<h2>🏆 GitHub Achievements</h2>
+<!-- <h2>🏆 GitHub Achievements</h2>
 
 <div align="center">
   <img src="./achievements.svg" width="100%" alt="GitHub Achievements"/>
@@ -162,7 +162,7 @@
 
 <div align="center">
   <img src="./activity.svg" width="100%" alt="Recent GitHub Activity"/>
-</div>
+</div> -->
 
 <hr/>
 
