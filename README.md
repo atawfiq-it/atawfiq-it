@@ -153,19 +153,15 @@
 <h2>🏆 GitHub Achievements</h2>
 
 <div align="center">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=atawfiq-it&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" width="100%" alt="GitHub Trophies"/>
-
+  <img src="./achievements.svg" width="100%" alt="GitHub Achievements"/>
 </div>
 
 <hr/>
 
-<h2>📈 Contribution Activity</h2>
+<h2>📅 Recent GitHub Activity</h2>
 
 <div align="center">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atawfiq-it&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Activity"/>
-
+  <img src="./activity.svg" width="100%" alt="Recent GitHub Activity"/>
 </div>
 
 <hr/>
