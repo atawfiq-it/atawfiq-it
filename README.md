@@ -136,9 +136,11 @@
 
 <div align="center">
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=atawfiq-it&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Statistics"/>
-
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atawfiq-it&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img
+    src="./github-metrics.svg"
+    alt="GitHub Metrics"
+    width="100%"
+  />
 
   <br/><br/>
 
